@@ -1,0 +1,10 @@
+/Users/saltyspaghetti/Projects/Flutter/palette_extractor_ffi/plugins/palette_extractor/src/palette_extractor/target/debug/deps/liblock_api-34d350eca215620d.rmeta: /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/saltyspaghetti/Projects/Flutter/palette_extractor_ffi/plugins/palette_extractor/src/palette_extractor/target/debug/deps/liblock_api-34d350eca215620d.rlib: /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/saltyspaghetti/Projects/Flutter/palette_extractor_ffi/plugins/palette_extractor/src/palette_extractor/target/debug/deps/lock_api-34d350eca215620d.d: /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs:
+/Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs:
+/Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs:
+/Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs:

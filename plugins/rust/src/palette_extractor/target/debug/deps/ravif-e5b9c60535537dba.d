@@ -1,0 +1,10 @@
+/Users/saltyspaghetti/Projects/Flutter/palette_extractor_ffi/plugins/palette_extractor/src/palette_extractor/target/debug/deps/libravif-e5b9c60535537dba.rmeta: /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/lib.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/av1encoder.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/error.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/dirtyalpha.rs
+
+/Users/saltyspaghetti/Projects/Flutter/palette_extractor_ffi/plugins/palette_extractor/src/palette_extractor/target/debug/deps/libravif-e5b9c60535537dba.rlib: /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/lib.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/av1encoder.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/error.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/dirtyalpha.rs
+
+/Users/saltyspaghetti/Projects/Flutter/palette_extractor_ffi/plugins/palette_extractor/src/palette_extractor/target/debug/deps/ravif-e5b9c60535537dba.d: /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/lib.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/av1encoder.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/error.rs /Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/dirtyalpha.rs
+
+/Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/lib.rs:
+/Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/av1encoder.rs:
+/Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/error.rs:
+/Users/saltyspaghetti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ravif-0.11.8/src/dirtyalpha.rs:
