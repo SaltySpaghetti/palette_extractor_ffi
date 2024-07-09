@@ -7,12 +7,24 @@ environment:
   sdk: '>=3.4.1 <4.0.0'
 
 dependencies:
-  file_picker: ^8.0.5
   flutter:
     sdk: flutter
     
-  rust_plugin:
-    path: plugins/rust_plugin
+  file_picker: ^8.0.5
+  ffi: ^2.1.2
+    
+  rust:
+    path: plugins/rust
+
+  cpp:
+    path: plugins/cpp
+
+dependency_overrides:
+  # required for ffi_rust_plugin
+  native_assets_cli:
+    git:
+      url: https://github.com/dart-lang/native.git
+      path: pkgs/native_assets_cli/
 
 dev_dependencies:
   flutter_test:

@@ -2,7 +2,8 @@ import 'dart:io';
 
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
-import 'package:rust_plugin/rust_plugin.dart';
+
+import 'bindings.dart';
 
 void main() {
   runApp(const MainApp());
@@ -23,6 +24,7 @@ class MainApp extends StatelessWidget {
               if (result != null) {
                 File file = File(result.files.single.path!);
                 final palette = extractPalette(
+                  Language.cpp,
                   file.path,
                   10,
                   10,
